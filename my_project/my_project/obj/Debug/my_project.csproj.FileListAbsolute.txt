@@ -1,0 +1,10 @@
+C:\Users\Frtook\Documents\My Clone\c-sharp_do-to-list_form\my_project\my_project\bin\Debug\my_project.exe.config
+C:\Users\Frtook\Documents\My Clone\c-sharp_do-to-list_form\my_project\my_project\bin\Debug\my_project.exe
+C:\Users\Frtook\Documents\My Clone\c-sharp_do-to-list_form\my_project\my_project\bin\Debug\my_project.pdb
+C:\Users\Frtook\Documents\My Clone\c-sharp_do-to-list_form\my_project\my_project\obj\Debug\my_project.csprojResolveAssemblyReference.cache
+C:\Users\Frtook\Documents\My Clone\c-sharp_do-to-list_form\my_project\my_project\obj\Debug\my_project.Form1.resources
+C:\Users\Frtook\Documents\My Clone\c-sharp_do-to-list_form\my_project\my_project\obj\Debug\my_project.Form2.resources
+C:\Users\Frtook\Documents\My Clone\c-sharp_do-to-list_form\my_project\my_project\obj\Debug\my_project.Properties.Resources.resources
+C:\Users\Frtook\Documents\My Clone\c-sharp_do-to-list_form\my_project\my_project\obj\Debug\my_project.csproj.GenerateResource.Cache
+C:\Users\Frtook\Documents\My Clone\c-sharp_do-to-list_form\my_project\my_project\obj\Debug\my_project.exe
+C:\Users\Frtook\Documents\My Clone\c-sharp_do-to-list_form\my_project\my_project\obj\Debug\my_project.pdb
